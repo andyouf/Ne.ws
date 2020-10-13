@@ -18,7 +18,7 @@ Build a search bar which has the following options:
 When your user interacts with the search bar:
   * If the user fills in no keywords, the search should be to: 
     * https://api.currentsapi.services/v1/latest-news
-  * If the user fills in anything, instead build a search string, with the base URL of https://api.currentsapi.services/v1/search. 
+    * If the user fills in anything, instead build a search string, with the base URL of https://api.currentsapi.services/v1/search. 
 
 See https://currentsapi.services/api/docs/
 
